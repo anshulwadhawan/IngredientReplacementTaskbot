@@ -1,0 +1,154 @@
+{
+  "american cheese": {
+    "precision": 0.9705882352941176,
+    "recall": 0.9705882352941176
+  },
+  "apple juice": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "bacon": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "ground beef": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "blueberry": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "bulgur": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "carrot": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "cheddar": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "cherry": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "chicken": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "duck": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "hazelnut": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "jack cheese": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "kale": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "lamb": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "lobster": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "parsley": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "peach": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "peanut": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "pineapple": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "pork": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "prosciutto": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "raisin": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "raspberry": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "rice milk": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "roquefort": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "salmon": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "strawberry": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "thyme": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "tuna": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "turkey": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "veal": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "sugar": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "mushroom": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "eggplant": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "chocolate": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "tofu": {
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "paneer": {
+    "precision": 1.0,
+    "recall": 1.0
+  }
+}

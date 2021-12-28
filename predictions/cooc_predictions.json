@@ -1,0 +1,268 @@
+{
+  "american cheese": [
+    "luncheon meat",
+    "bologna",
+    "cheese slices",
+    "american",
+    "pasteurized"
+  ],
+  "apple juice": [
+    "barbecue rub",
+    "organic apple",
+    "apple juice concentrate",
+    "juice concentrate",
+    "unsweetened apple juice"
+  ],
+  "bacon": [
+    "canadian bacon",
+    "bacon grease",
+    "cooked bacon",
+    "center cut bacon",
+    "oscar mayer bacon"
+  ],
+  "ground beef": [
+    "ranch style beans",
+    "tater tots",
+    "frozen tater tots",
+    "extra lean ground beef",
+    "lean ground beef"
+  ],
+  "blueberry": [
+    "muffin mix",
+    "peach pie filling",
+    "pie filling",
+    "blueberry jam",
+    "blueberry pie filling"
+  ],
+  "bulgur": [
+    "pomegranate molasses",
+    "herb dressing",
+    "aleppo pepper",
+    "cracked wheat",
+    "bulgur wheat"
+  ],
+  "carrot": [
+    "carcass",
+    "rib",
+    "burdock",
+    "carrot sticks",
+    "grated carrot"
+  ],
+  "cheddar": [
+    "cheddar cheese",
+    "mild cheddar cheese",
+    "kraft sharp cheddar cheese",
+    "condensed cheddar cheese soup",
+    "cheddar cheese soup"
+  ],
+  "cherry": [
+    "cherry peppers",
+    "maraschino",
+    "cherry gelatin",
+    "cherry juice",
+    "cherry brandy"
+  ],
+  "chicken": [
+    "chicken liver",
+    "chicken gravy",
+    "swanson chicken broth",
+    "cream of chicken soup",
+    "chicken flavor stuffing mix"
+  ],
+  "duck": [
+    "duck sauce",
+    "goose",
+    "confit",
+    "duck breasts",
+    "duck fat"
+  ],
+  "hazelnut": [
+    "ground hazelnuts",
+    "roasted hazelnuts",
+    "hazelnut liqueur",
+    "hazelnut oil",
+    "frangelico"
+  ],
+  "jack cheese": [
+    "bean dip",
+    "pepper jack",
+    "monterey jack",
+    "monterey jack cheese",
+    "colby jack cheese"
+  ],
+  "kale": [
+    "hemp seeds",
+    "farro",
+    "linguica",
+    "curly kale",
+    "lacinato kale"
+  ],
+  "lamb": [
+    "lamb loin",
+    "rack of lamb",
+    "lamb chops",
+    "lamb loin chops",
+    "lamb rib chops"
+  ],
+  "lobster": [
+    "lobsters",
+    "shellfish",
+    "claws",
+    "lobster meat",
+    "lobster tails"
+  ],
+  "parsley": [
+    "parsley leaves",
+    "parsley sprigs",
+    "fresh parsley",
+    "chopped parsley",
+    "minced parsley"
+  ],
+  "peach": [
+    "peach halves",
+    "peach slices",
+    "peach jam",
+    "peach nectar",
+    "peach puree"
+  ],
+  "peanut": [
+    "nut butter",
+    "peanut oil",
+    "peanut butter chips",
+    "chunky peanut butter",
+    "peanut sauce"
+  ],
+  "pineapple": [
+    "pineapple chunks",
+    "pineapple slices",
+    "unsweetened pineapple juice",
+    "pineapple juice",
+    "pineapple preserves"
+  ],
+  "pork": [
+    "pork stew meat",
+    "pork ribs",
+    "pork chops",
+    "pork fat",
+    "minced pork"
+  ],
+  "prosciutto": [
+    "taleggio",
+    "country ham",
+    "genoa salami",
+    "mortadella",
+    "bresaola"
+  ],
+  "raisin": [
+    "dried pears",
+    "dried apricot",
+    "dried fig",
+    "raisin bread",
+    "sultana"
+  ],
+  "raspberry": [
+    "raspberry preserves",
+    "raspberry juice",
+    "raspberry puree",
+    "raspberry liqueur",
+    "raspberry jam"
+  ],
+  "rice milk": [
+    "vegan butter",
+    "soymilk",
+    "xanthan gum",
+    "xanthan",
+    "flour mix"
+  ],
+  "roquefort": [
+    "blue cheese",
+    "belgian endive",
+    "stilton cheese",
+    "stilton",
+    "roquefort cheese"
+  ],
+  "salmon": [
+    "smoked salmon",
+    "canned salmon",
+    "pink salmon",
+    "salmon steaks",
+    "red salmon"
+  ],
+  "strawberry": [
+    "strawberry preserves",
+    "strawberry jam",
+    "strawberry gelatin",
+    "strawberry flavor",
+    "strawberry yogurt"
+  ],
+  "thyme": [
+    "fresh thyme",
+    "thyme sprigs",
+    "dried thyme",
+    "thyme sprig",
+    "chopped fresh thyme"
+  ],
+  "tuna": [
+    "wasabi",
+    "ahi",
+    "canned tuna",
+    "tuna fish",
+    "light tuna"
+  ],
+  "turkey": [
+    "turkey broth",
+    "smoked turkey breast",
+    "turkey bacon",
+    "turkey gravy",
+    "roasted turkey breast"
+  ],
+  "veal": [
+    "cutlet",
+    "veal chops",
+    "veal cutlets",
+    "veal loin",
+    "veal shoulder"
+  ],
+  "sugar": [
+    "cachaca",
+    "sugar syrup",
+    "liquid pectin",
+    "pectin",
+    "fruit pectin"
+  ],
+  "mushroom": [
+    "condensed cream of mushroom soup",
+    "condensed golden mushroom soup",
+    "golden mushroom soup",
+    "cream of mushroom soup",
+    "mushroom soup"
+  ],
+  "eggplant": [
+    "part-skim mozzarella cheese",
+    "buffalo mozzarella",
+    "part-skim mozzarella",
+    "yellow squash",
+    "aubergine"
+  ],
+  "chocolate": [
+    "chocolate milk",
+    "chocolate drink",
+    "dipping chocolate",
+    "chocolate powder",
+    "chocolate liqueur"
+  ],
+  "tofu": [
+    "mentsuyu",
+    "chrysanthemum",
+    "firm tofu",
+    "silken tofu",
+    "soft tofu"
+  ],
+  "paneer": [
+    "fenugreek leaves",
+    "amchur",
+    "methi",
+    "chaat masala",
+    "brown cardamom"
+  ]
+}
